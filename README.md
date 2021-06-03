@@ -1,1 +1,1 @@
-# Graph-attentive-Convolutional-Hawkes-Processes-GACHP
+# Graph-Attentive-Convolutional-Hawkes-Processes-GACHP
