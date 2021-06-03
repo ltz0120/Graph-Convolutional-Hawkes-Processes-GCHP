@@ -1,1 +1,1 @@
-# Graph-Convolutional-Hawkes-Processes-GACHP
+# Graph-Convolutional-Hawkes-Processes-GCHP
