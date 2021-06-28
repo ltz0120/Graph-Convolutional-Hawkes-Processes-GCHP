@@ -38,6 +38,12 @@ python train.py --dataset IPTV --batch_size 50000 --memory_size 10 --epochs 200 
 ```
 
 
+```
+--loss_type likelihood
+```
+denotes the likelihood ratio loss proposed in our paper. 
+
+
 
 ### Reference
 
